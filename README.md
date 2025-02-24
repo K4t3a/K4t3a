@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b3500d80-d3ea-4bab-8805-5f48ee7fe50b)
+<img src="https://github.com/user-attachments/assets/b3500d80-d3ea-4bab-8805-5f48ee7fe50b" height="200" />
 
 <div id="header" style="align-items: center;">
       <h1>Hi there, I'm Katya 👋</h1>
