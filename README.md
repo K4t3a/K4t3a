@@ -3,11 +3,12 @@
       <h3>Currently Backend developer student from Russia</h3>
     </div>
 
-<div id="socials" style="align-items: center;">
- <a href="linktree">
-      <img src="https://img.shields.io/badge/linktree" alt="Linktree">
- </a>
-</div>
+   <div id="socials" style="align-items: center;">
+      <a href="https://linktr.ee/K4t3a">
+        <img src="https://img.shields.io/badge/linktree-green?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+      </a>
+
+    </div>
 
 <!--
 **K4t3a/K4t3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
