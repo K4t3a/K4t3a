@@ -1,4 +1,13 @@
-## Hi there, I'm Katya 👋
+<div id="header" style="align-items: center;">
+      <h1>Hi there, I'm Katya 👋</h1>
+      <h3>Currently Backend developer student from Russia</h3>
+    </div>
+
+    <div id="socials">
+      <a href="linktree">
+        <img src="https://img.shields.io/badge/linktree" alt="Linktree">
+      </a>
+    </div>
 
 <!--
 **K4t3a/K4t3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
