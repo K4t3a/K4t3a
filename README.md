@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="lang"> 
+   <div id="lang"> 
       <h2>Languages and skills</h2>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 40; width: 40;" title="js" />&nbsp;
-</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="height: 40; width: 40;" title="Node js" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="height: 40; width: 40;" title="Node js" />&nbsp;
+    </div>
