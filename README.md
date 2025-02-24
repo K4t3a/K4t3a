@@ -58,4 +58,6 @@ Here are some ideas to get you started:
       style="height: 60px; width: 60px;" title="axios" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
       style="height: 60px; width: 60px;" title="docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+      style="height: 60px; width: 60px;" title="docker" />
   </div>
