@@ -23,9 +23,10 @@
 - 🎓 I’m a 3rd-year student at IThub College.  
 - 💻 Currently learning: Golang, REST API, and Linux.  
 - 🚀 Want to master and improve: NestJS and React.  
+- 🎨 I enjoy doing design stuff!  
+- 🌟 My dream is to become a senior developer.  
 - 🎮 Anime and video game enthusiast!  
 - 🌍 Languages: Russian and English.
-
 
 <div id="lang">
   <h2>Languages and skills</h2>
