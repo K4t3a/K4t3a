@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b3500d80-d3ea-4bab-8805-5f48ee7fe50b" height="200" />&nbsp
+<img src="https://github.com/user-attachments/assets/b3500d80-d3ea-4bab-8805-5f48ee7fe50b" height="200" />
 <img src="https://github.com/user-attachments/assets/bb0ce063-f02c-4a78-bc9e-4bdb568c0660" height="200" />
 
 <div id="header" style="align-items: center;">
