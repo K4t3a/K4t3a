@@ -1,13 +1,11 @@
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="text-align: center;">
 
-<img src="https://github.com/user-attachments/assets/b3500d80-d3ea-4bab-8805-5f48ee7fe50b" height="200" style="margin: 10px;" />
-<img src="https://github.com/user-attachments/assets/bb0ce063-f02c-4a78-bc9e-4bdb568c0660" height="200" style="margin: 10px;" /> 
-<img src="https://github.com/user-attachments/assets/5513bb92-d585-4239-a6b4-fd390076b688" height="200" style="margin: 10px;" />
+<img src="https://github.com/user-attachments/assets/b3500d80-d3ea-4bab-8805-5f48ee7fe50b" height="200" style="display: block; margin: 10px auto;" />
+<img src="https://github.com/user-attachments/assets/bb0ce063-f02c-4a78-bc9e-4bdb568c0660" height="200" style="display: block; margin: 10px auto;" /> 
+<img src="https://github.com/user-attachments/assets/5513bb92-d585-4239-a6b4-fd390076b688" height="200" style="display: block; margin: 10px auto;" />
 
-<div style="text-align: center; margin: 20px 0;">
-  <h1>Hi there, I'm Katya 👋</h1>
-  <h3>Currently Backend developer student from Russia</h3>
-</div>
+<h1>Hi there, I'm Katya 👋</h1>
+<h3>Currently Backend developer student from Russia</h3>
 
 <div style="text-align: center; margin: 20px 0;">
   <a href="https://linktr.ee/K4t3a">
@@ -32,9 +30,9 @@
 - 🌍 Languages: Russian and English.
 </div>
 
+<h2 style="text-align: center;">Languages and skills</h2>
 <div style="text-align: center; margin: 20px 0;">
-  <h2>Languages and skills</h2>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
+  <div style="display: inline-flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 60px; width: 60px;" title="js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="height: 60px; width: 60px;" title="Node js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="height: 60px; width: 60px;" title="html" />
