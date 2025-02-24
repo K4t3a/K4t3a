@@ -3,8 +3,8 @@
       <h3>Currently Backend developer student from Russia</h3>
     </div>
 
-
-<a href="https://linktr.ee/K4t3a">
+<div id="socials" style="align-items: center;">
+      <a href="https://linktr.ee/K4t3a">
         <img src="https://img.shields.io/badge/linktree-green?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
       </a>
       <a href="https://t.me/adepto_xiao">
@@ -14,7 +14,9 @@
       <a href="https://x.com/y_yaded">
         <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=x&logoColor=white"
           alt="x">
-</a>
+      </a>
+</div>
+
 
 
 <!--
@@ -31,9 +33,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-   <div id="lang"> 
-      <h2>Languages and skills</h2>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 40; width: 40;" title="js" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="height: 40; width: 40;" title="Node js" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="height: 40; width: 40;" title="Node js" />&nbsp;
-    </div>
+
+###Languages and skills</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 40; width: 40;" title="js" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="height: 40; width: 40;" title="Node js" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="height: 40; width: 40;" title="Node js" />&nbsp;
+
