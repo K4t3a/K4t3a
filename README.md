@@ -37,23 +37,25 @@ Here are some ideas to get you started:
   <h2>Languages and skills</h2>
   <div style="display: flex; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-      style="height: 40px; width: 40px;" title="js" />
+      style="height: 60px; width: 60px;" title="js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-      style="height: 40px; width: 40px;" title="Node js" />
+      style="height: 60px; width: 60px;" title="Node js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-      style="height: 40px; width: 40px;" title="html" />
+      style="height: 60px; width: 60px;" title="html" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-      style="height: 40px; width: 40px;" title="css" />
+      style="height: 60px; width: 60px;" title="css" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-      style="height: 40px; width: 40px;" title="git" />
+      style="height: 60px; width: 60px;" title="git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  
-      style="height: 40px; width: 40px;" title="mysql" />
+      style="height: 60px; width: 60px;" title="mysql" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-      style="height: 40px; width: 40px;" title="postgresql" />
+      style="height: 60px; width: 60px;" title="postgresql" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-      style="height: 40px; width: 40px;" title="express" />
+      style="height: 60px; width: 60px;" title="express" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
-      style="height: 40px; width: 40px;" title="npm" />
+      style="height: 60px; width: 60px;" title="npm" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg"
-      style="height: 40px; width: 40px;" title="axios" />
+      style="height: 60px; width: 60px;" title="axios" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+      style="height: 60px; width: 60px;" title="docker" />
   </div>
