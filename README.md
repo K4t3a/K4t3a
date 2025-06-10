@@ -23,7 +23,7 @@
 
 ### About me  
 - 🎓 I’m a 3rd-year student at IThub College.  
-- 💻 Currently learning: Golang, REST API, and Linux.  
+- 💻 Currently learning: Java, REST API, and Linux.  
 - 🚀 Want to master and improve: NestJS and React.  
 - 🎨 I enjoy doing design stuff!  
 - 🌟 My dream is to become a senior developer.  
