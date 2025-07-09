@@ -22,7 +22,7 @@
 </div>
 
 ### About me  
-- 🎓 I’m a 3rd-year student at IThub College.  
+- 🎓 I’m a 4rd-year student at IThub College.  
 - 💻 Currently learning: Java, REST API, and Linux.  
 - 🚀 Want to master and improve: NestJS and React.  
 - 🎨 I enjoy doing design stuff!  
