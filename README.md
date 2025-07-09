@@ -26,8 +26,7 @@
 - 💻 Currently learning: Java, REST API, and Linux.  
 - 🚀 Want to master and improve: NestJS and React.  
 - 🎨 I enjoy doing design stuff!  
-- 🌟 My dream is to become a senior developer.  
-- 🎮 Anime and video game enthusiast!  
+- 🌟 My dream is to become a senior developer.    
 - 🌍 Languages: Russian and English.
 
 <div id="lang" style="text-align: center;">
